@@ -1,0 +1,13 @@
+>> YOUTUBE >>
+Header >>
+icon to open side panel > home , shorts , subscription etc...
+YOUTUBE logo 
+Search Bar
+user icon
+BODY >>
+button list/ filters
+video rendering > clicking on video will open up a video page
+video page > header > > video(details as well) > suggestions > comments
+
+ 
+
